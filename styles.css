@@ -117,6 +117,7 @@ p>img {
 
 
 hr {
+    height: .5px;
     width: 95%;
     background-color: var(--soft-blue);
     margin: 20px 0 10px;
